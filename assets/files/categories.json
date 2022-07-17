@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mobiles",
+            "totalItem": 881,
+            "color": "#33505a",
+            "image": "https://lzd-img-global.slatic.net/g/p/f5b826c2d51a4d4fa571c71fbda798ae.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 2,
+            "name": "Women's Fashion",
+            "totalItem": 20101,
+            "color": "#00ac51",
+            "image": "https://lzd-img-global.slatic.net/g/p/a03eb3630497eefcbc465b4639d815df.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 3,
+            "name": "Men's Fashion",
+            "totalItem": 10511,
+            "color": "#e0bfae",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/71AvQd3VzqL._AC_UL302_SR302,200_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Tablets",
+            "totalItem": 1501,
+            "color": "#544ee4",
+            "image": "https://lzd-img-global.slatic.net/live/my/p/55cd4ccf6383f4ce535228f10c2883e9.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 5,
+            "name": "Smartwatches",
+            "totalItem": 12501,
+            "color": "#e3e4e9",
+            "image": "https://lzd-img-global.slatic.net/g/p/b5f3615f4ec650fb508fde2e7255d19c.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 6,
+            "name": "Kitchen Organizers",
+            "totalItem": 21501,
+            "color": "#f73984",
+            "image": "https://lzd-img-global.slatic.net/live/my/p/66660f962cdd104f2bf11e5ec65c1d27.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 7,
+            "name": "Wireless Earbuds",
+            "totalItem": 25601,
+            "color": "#1c1c1c",
+            "image": "https://lzd-img-global.slatic.net/g/p/3d7394d7cc26a654578569791b54a058.jpg_80x80q80.jpg_.webp"
+        },
+        {
+            "id": 8,
+            "name": "Sports",
+            "totalItem": 581,
+            "color": "#7c95eb",
+            "image": "https://rukminim1.flixcart.com/image/495/594/l4vnbm80/shoe/h/j/l/7-ga1346-8-reebok-smoky-indigo-digital-glow-vector-navy-original-imagfzk3wynhapes.jpeg?q=50"
+        },
+        {
+            "id": 9,
+            "name": "Books",
+            "totalItem": 14501,
+            "color": "#7c95eb",
+            "image": "https://rukminim1.flixcart.com/image/612/612/ksez24w0/book/d/8/b/indian-polity-for-civil-services-and-other-state-examinations-original-imag5zd3gcmsghst.jpeg?q=70"
+        },
+        {
+            "id": 10,
+            "name": "Laptop",
+            "totalItem": 24501,
+            "color": "#7c95eb",
+            "image": "https://lzd-img-global.slatic.net/g/p/78e35682769d0f86c8bd0c766128c11f.jpg_200x200q90.jpg_.webp"
+        },
+        {
+            "id": 10,
+            "name": "HouseHolds",
+            "totalItem": 24501,
+            "color": "#7c95eb",
+            "image": "https://lzd-img-global.slatic.net/g/p/78e35682769d0f86c8bd0c766128c11f.jpg_200x200q90.jpg_.webp"
+        },
+        {
+            "id": 10,
+            "name": "Appliances",
+            "totalItem": 24501,
+            "color": "#7c95eb",
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100"
+        }
+    ]
+}

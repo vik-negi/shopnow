@@ -1,0 +1,138 @@
+{
+    "Categories":{
+        "Electronics Tv":[
+
+        ],
+        "Laptops":[
+
+        ],
+        "Mobiles":[
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/71AvQd3VzqL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/71V--WZVUIL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/61KPI-ZFbvL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/619n6kxuGsL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/71WS-0ITj7L._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/61+Q6Rh3OQL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/619n6kxuGsL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/61yMzD6RG8L._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/61ao9wtRT7L._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/61mqaxj-iCL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/415yl0HeDQL._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/81-siv0jJ9L._AC_UL302_SR302,200_.jpg"
+            },
+            {
+                "id": 3.1,
+                "name": "",
+                "des":"",
+                "price":"",
+                "color":"",
+                "image": "https://images-eu.ssl-images-amazon.com/images/I/71+OKgerhIL._AC_UL302_SR302,200_.jpg"
+            }
+
+        ],
+        "Men's Fashion":[
+
+        ],
+        "Women's Fashion":[
+
+        ],
+        "Books":[
+
+        ],
+        "Sports":[
+
+        ],
+        "Beauty":[
+
+        ],
+        "Home":[
+
+        ],
+        "Gadgets":[
+
+        ]
+    }
+}
